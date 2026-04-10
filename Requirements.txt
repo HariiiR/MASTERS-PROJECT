@@ -1,0 +1,6 @@
+arxiv==2.2.0
+azure_storage==0.37.0
+marker==2.1.5
+neo4j==5.28.1
+openai==1.106.1
+Requests==2.32.5
